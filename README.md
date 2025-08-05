@@ -6,3 +6,4 @@ Esses são alguns exercicios básicos feitos na linguagem C feitos no primeiro s
 * [Lista 2](#_lista2)
 * [Matriz](#Matriz)
 * [Vetores](#_Vetores)
+* [Vetores](#_C-Funcao)
