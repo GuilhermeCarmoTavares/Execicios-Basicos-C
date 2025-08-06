@@ -1,5 +1,5 @@
 # LISTAS DE EXERCÍCIOS DE ALGORITMO
-Esses são alguns exercicios básicos feitos na linguagem C feitos no primeiro semestre da faculdade 
+Esses são alguns exercicios  feitos na linguagem C no primeiro semestre e segundo semestre da faculdade 
 
 ## Exercícios 
 * [Lista 1](#_lista1)
